@@ -4,21 +4,13 @@
         "options": ["Germany", "France", "The Netherlands", "Spain"],
         "answer": "The Netherlands"
     },
-    {
-        "question": "Which Peruvian volcano showed thermal anomalies and gas-and-steam plumes during May 15-21, 2024?",
-        "options": ["Sabancaya", "Misti", "Ubinas", "Coropuna"],
-        "answer": "Ubinas"
-    },
+   
     {
         "question": "What innovative idea are scientists proposing to test on the Moon instead of moon walking?",
         "options": ["Moon cycling", "Moon driving", "Moon running", "Moon swimming"],
         "answer": "Moon running"
     },
-    {
-        "question": "What did researchers discover about the volcanic activity on Venus as of May 27, 2024?",
-        "options": ["Venus has no volcanic activity.", "Venus has sporadic volcanic eruptions.", "Venus has frequent and significant volcanic activity.", "Venus is cooling and becoming less volcanically active."],
-        "answer": "Venus has frequent and significant volcanic activity."
-    },
+   
     {
         "question": "What unique feature do anglerfish possess that helped them thrive in the deep sea during a time of global warming?",
         "options": ["Bioluminescence", "Sexual parasitism", "Camouflage abilities", "Ability to emit electric shocks"],
@@ -54,20 +46,31 @@
         "options": ["Berlin", "Paris", "London", "Madrid"],
         "answer": "London"
     },
-    {
-        "question": "What unusual activity is permitted on warm summer evenings along the Isar River in Munich, making it a popular spot for locals?",
-        "options": ["Fireworks displays", "Barbecuing", "Ice skating", "Kite flying"],
-        "answer": "Barbecuing"
-    },
+   
     {
         "question": "During the 'Festival of the Future' in Munich, which technology is among those featured in the interactive exhibition and workshops?",
         "options": ["Virtual Reality", "Quantum Technology", "Blockchain", "Drone Technology"],
         "answer": "Quantum Technology"
     },
+    
     {
-        "question": "Which famous festival in Amsterdam involves people dressing in orange and partying in the streets, parks, and canals?",
-        "options": ["Tulip Festival", "King's Day", "Canal Parade", "Light Festival"],
-        "answer": "King's Day"
+        "question": "What major achievement was made by the Chang'e 6 spacecraft of the China National Space Administration on June 4, 2024?",
+        "options": ["Landed on Mars", "Collected samples from the far side of the Moon", "Discovered a new exoplanet", "Launched a new satellite into orbit"],
+        "answer": "Collected samples from the far side of the Moon"
+    },
+    
+    {
+        "question": "Which tennis player overcame Ons Jabeur to reach the French Open semi-finals on June 4, 2024?",
+        "options": ["Naomi Osaka", "Iga Swiatek", "Coco Gauff", "Simona Halep"],
+        "answer": "Coco Gauff"
+    },
+    
+    {
+        "question": "Which team did Real Madrid defeat in the men’s Champions league final on June 3, 2024?",
+        "options": ["Borussia Dortmund", "Chelsea", "Liverpool", "Manchester City"],
+        "answer": "UEFA Champions League"
     }
+    
+    
 ]
 
