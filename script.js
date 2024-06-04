@@ -64,6 +64,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 scoreContainer.textContent = `Your score: ${score} out of ${questions.length}`;
                 resultsContainer.style.display = 'block';
             });
-        });
+        })
+        .catch(error => console.error('Error fetching questions:', error));
 });
-
