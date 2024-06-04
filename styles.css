@@ -16,11 +16,12 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     max-width: 600px;
     width: 100%;
-    text-align: center;
+    text-align: left; /* Align everything to the left */
 }
 
 h1 {
     color: #333;
+    text-align: center; /* Center only the title */
 }
 
 .question {
@@ -63,3 +64,6 @@ button:hover {
     background-color: #0056b3;
 }
 
+#results {
+    margin-top: 20px;
+}
