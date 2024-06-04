@@ -1,0 +1,73 @@
+[
+    {
+        "question": "Which NATO member country will host the 2025 NATO Summit?",
+        "options": ["Germany", "France", "The Netherlands", "Spain"],
+        "answer": "The Netherlands"
+    },
+    {
+        "question": "Which Peruvian volcano showed thermal anomalies and gas-and-steam plumes during May 15-21, 2024?",
+        "options": ["Sabancaya", "Misti", "Ubinas", "Coropuna"],
+        "answer": "Ubinas"
+    },
+    {
+        "question": "What innovative idea are scientists proposing to test on the Moon instead of moon walking?",
+        "options": ["Moon cycling", "Moon driving", "Moon running", "Moon swimming"],
+        "answer": "Moon running"
+    },
+    {
+        "question": "What did researchers discover about the volcanic activity on Venus as of May 27, 2024?",
+        "options": ["Venus has no volcanic activity.", "Venus has sporadic volcanic eruptions.", "Venus has frequent and significant volcanic activity.", "Venus is cooling and becoming less volcanically active."],
+        "answer": "Venus has frequent and significant volcanic activity."
+    },
+    {
+        "question": "What unique feature do anglerfish possess that helped them thrive in the deep sea during a time of global warming?",
+        "options": ["Bioluminescence", "Sexual parasitism", "Camouflage abilities", "Ability to emit electric shocks"],
+        "answer": "Sexual parasitism"
+    },
+    {
+        "question": "What did a recent study find about the public's ability to use an extra thumb?",
+        "options": ["They struggled to coordinate with it", "They quickly adapted and used it effectively", "It caused confusion and was often ignored", "They preferred to remove it after a trial period"],
+        "answer": "They quickly adapted and used it effectively"
+    },
+    {
+        "question": "In what unique way did caterpillars detect their predators, as discovered in a recent study?",
+        "options": ["Through vibrations in the air", "By detecting the static electricity emitted by predators", "Using enhanced olfactory senses", "Through a specialized hearing organ"],
+        "answer": "By detecting the static electricity emitted by predators"
+    },
+    {
+        "question": "What peculiar festival involves a competition of handmade boats constructed entirely from recycled milk cartons and jugs?",
+        "options": ["The Great Milk Jug Regatta", "Milk Carton Boat Race", "Eco-Friendly Float Fest", "The Recycled Raft Rally"],
+        "answer": "Milk Carton Boat Race"
+    },
+    {
+        "question": "What recent event celebrated its 10th anniversary with activities including cat and bunny costumes, special giveaways, and cake?",
+        "options": ["The Bunny Hop Festival", "Silly Bunny Toys Anniversary", "Pet Lovers Gala", "Animal Costume Carnival"],
+        "answer": "Silly Bunny Toys Anniversary"
+    },
+    {
+        "question": "Which European country held a unique festival where participants competed with handmade boats made entirely from recycled milk cartons?",
+        "options": ["Netherlands", "Denmark", "Sweden", "Germany"],
+        "answer": "Netherlands"
+    },
+    {
+        "question": "In which European city did a pop-up event named 'Love Pub + Grub' make a summer comeback, featuring DJ sets, street food, and a gaming room?",
+        "options": ["Berlin", "Paris", "London", "Madrid"],
+        "answer": "London"
+    },
+    {
+        "question": "What unusual activity is permitted on warm summer evenings along the Isar River in Munich, making it a popular spot for locals?",
+        "options": ["Fireworks displays", "Barbecuing", "Ice skating", "Kite flying"],
+        "answer": "Barbecuing"
+    },
+    {
+        "question": "During the 'Festival of the Future' in Munich, which technology is among those featured in the interactive exhibition and workshops?",
+        "options": ["Virtual Reality", "Quantum Technology", "Blockchain", "Drone Technology"],
+        "answer": "Quantum Technology"
+    },
+    {
+        "question": "Which famous festival in Amsterdam involves people dressing in orange and partying in the streets, parks, and canals?",
+        "options": ["Tulip Festival", "King's Day", "Canal Parade", "Light Festival"],
+        "answer": "King's Day"
+    }
+]
+
