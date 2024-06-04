@@ -4,9 +4,9 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: left;
-    align-items: left;
-    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure the body covers the full height of the viewport */
 }
 
 .container {
@@ -17,11 +17,12 @@ body {
     max-width: 600px;
     width: 100%;
     text-align: left; /* Align everything to the left */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
 
 h1 {
     color: #333;
-    text-align: left; /* Center only the title */
+    text-align: center; /* Center only the title */
 }
 
 .question {
