@@ -21,7 +21,7 @@ body {
 
 h1 {
     color: #333;
-    text-align: center; /* Center only the title */
+    text-align: left; /* Center only the title */
 }
 
 .question {
