@@ -1,13 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('questions.json')
+    const quizForm = document.getElementById('quiz-form');
+    const questionsContainer = document.getElementById('questions-container');
+    const resultsContainer = document.getElementById('results');
+    const scoreContainer = document.getElementById('score');
+    const detailedResultsContainer = document.getElementById('detailed-results');
+    
+    let questionsFile = 'questions.json';
+    if (window.location.pathname.includes('trump-legal-issues.html')) {
+        questionsFile = 'questions-trump-legal-issues.json';
+    }
+
+    fetch(questionsFile)
         .then(response => response.json())
         .then(questions => {
-            const quizForm = document.getElementById('quiz-form');
-            const questionsContainer = document.getElementById('questions-container');
-            const resultsContainer = document.getElementById('results');
-            const scoreContainer = document.getElementById('score');
-            const detailedResultsContainer = document.getElementById('detailed-results');
-
             questions.forEach((question, index) => {
                 const questionDiv = document.createElement('div');
                 questionDiv.className = 'question';

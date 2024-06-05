@@ -1,0 +1,87 @@
+[
+    {
+        "question": "What charges are Trump facing in the Georgia election interference case?",
+        "options": [
+            "Embezzlement and fraud",
+            "Racketeering and conspiracy to commit election fraud",
+            "Money laundering and bribery",
+            "Insider trading and obstruction of justice"
+        ],
+        "answer": "Racketeering and conspiracy to commit election fraud"
+    },
+    {
+        "question": "In which state is Trump facing charges for attempting to overturn the 2020 election results?",
+        "options": ["Florida", "New York", "Georgia", "Pennsylvania"],
+        "answer": "Georgia"
+    },
+    {
+        "question": "How many counts are related to the classified documents case?",
+        "options": ["20", "30", "37", "40"],
+        "answer": "40"
+    },
+    {
+        "question": "Which special counsel is leading the investigation into Trump's handling of classified documents?",
+        "options": ["Robert Mueller", "Merrick Garland", "Jack Smith", "Alvin Bragg"],
+        "answer": "Jack Smith"
+    },
+    {
+        "question": "What was the nature of the charges brought by Manhattan District Attorney Alvin Bragg?",
+        "options": [
+            "Tax evasion",
+            "Fraud",
+            "Falsifying business records related to hush money payments",
+            "Embezzlement"
+        ],
+        "answer": "Falsifying business records related to hush money payments"
+    },
+    {
+        "question": "Who was the key witness in the New York case involving hush money payments?",
+        "options": ["Michael Cohen", "Rudy Giuliani", "Allen Weisselberg", "Paul Manafort"],
+        "answer": "Michael Cohen"
+    },
+    {
+        "question": "In the Georgia election interference case, Trump and his co-defendants are charged under which law?",
+        "options": [
+            "RICO (Racketeer Influenced and Corrupt Organizations Act)",
+            "The Espionage Act",
+            "The Foreign Corrupt Practices Act",
+            "The Patriot Act"
+        ],
+        "answer": "RICO (Racketeer Influenced and Corrupt Organizations Act)"
+    },
+    {
+        "question": "What was Trump accused of in the January 6th Capitol riot case?",
+        "options": [
+            "Insider trading",
+            "Obstruction of an official proceeding and conspiracy to defraud the United States",
+            "Tax evasion",
+            "Money laundering"
+        ],
+        "answer": "Obstruction of an official proceeding and conspiracy to defraud the United States"
+    },
+    {
+        "question": "How many co-defendants are involved with Trump in the Georgia election interference case?",
+        "options": ["10", "15", "18", "20"],
+        "answer": "18"
+    },
+    {
+        "question": "What specific allegation is part of the charges in the classified documents case?",
+        "options": [
+            "Trump ordered the destruction of emails",
+            "Trump refused to return classified documents despite multiple requests",
+            "Trump leaked classified information to the press",
+            "Trump sold classified information to foreign entities"
+        ],
+        "answer": "Trump refused to return classified documents despite multiple requests"
+    },
+    {
+        "question": "What legal issue did E. Jean Carroll's lawsuit against Trump address?",
+        "options": ["Tax evasion", "Defamation and sexual assault", "Bribery", "Insider trading"],
+        "answer": "Defamation and sexual assault"
+    },
+    {
+        "question": "What could be the potential prison sentence for Trump if convicted in the falsifying business records case?",
+        "options": ["Up to 2 years", "Up to 4 years", "Up to 10 years", "Life imprisonment"],
+        "answer": "Up to 4 years"
+    }
+]
