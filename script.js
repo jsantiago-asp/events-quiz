@@ -8,6 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let questionsFile = 'questions.json';
     if (window.location.pathname.includes('trump-legal-issues.html')) {
         questionsFile = 'questions-trump-legal-issues.json';
+    } else if (window.location.pathname.includes('hunter-biden-legal-issues.html')) {
+        questionsFile = 'questions-hunter-biden-legal-issues.json';
     }
 
     fetch(questionsFile)

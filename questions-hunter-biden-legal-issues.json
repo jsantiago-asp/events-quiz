@@ -1,0 +1,107 @@
+[
+    {
+        "question": "What charge did Hunter Biden plead guilty to in 2023?",
+        "options": [
+            "Tax evasion",
+            "Illegal possession of a firearm",
+            "Money laundering",
+            "Bank fraud"
+        ],
+        "answer": "Tax evasion"
+    },
+    {
+        "question": "What was Hunter Biden accused of in relation to his overseas business dealings?",
+        "options": [
+            "Accepting bribes from foreign officials",
+            "Embezzling funds from his company",
+            "Using his father's influence for personal gain",
+            "Insider trading"
+        ],
+        "answer": "Using his father's influence for personal gain"
+    },
+    {
+        "question": "Which foreign country was central to the controversies surrounding Hunter Biden's business activities?",
+        "options": ["Russia", "China", "Ukraine", "Mexico"],
+        "answer": "Ukraine"
+    },
+    {
+        "question": "What was the nature of the investigation by the US Attorney in Delaware regarding Hunter Biden?",
+        "options": [
+            "Tax affairs",
+            "Drug trafficking",
+            "Wire fraud",
+            "Counterfeit goods"
+        ],
+        "answer": "Tax affairs"
+    },
+    {
+        "question": "What kind of legal document did Hunter Biden reportedly falsify in relation to his firearm charge?",
+        "options": [
+            "Firearm transaction record",
+            "Passport application",
+            "Business license",
+            "Tax return"
+        ],
+        "answer": "Firearm transaction record"
+    },
+    {
+        "question": "Who was Hunter Biden's business partner implicated in the dealings investigated by federal authorities?",
+        "options": ["Tony Bobulinski", "Paul Manafort", "Roger Stone", "Rick Gates"],
+        "answer": "Tony Bobulinski"
+    },
+    {
+        "question": "What substance abuse problem did Hunter Biden openly struggle with?",
+        "options": [
+            "Alcohol",
+            "Prescription painkillers",
+            "Cocaine",
+            "Methamphetamine"
+        ],
+        "answer": "Cocaine"
+    },
+    {
+        "question": "In which year did Hunter Biden join the board of a controversial Ukrainian energy company?",
+        "options": ["2012", "2014", "2016", "2018"],
+        "answer": "2014"
+    },
+    {
+        "question": "Which family member of Hunter Biden's was tragically killed in a car accident?",
+        "options": [
+            "Brother",
+            "Sister",
+            "Mother",
+            "Father"
+        ],
+        "answer": "Mother"
+    },
+    {
+        "question": "What was the name of the Ukrainian energy company Hunter Biden was involved with?",
+        "options": [
+            "Gazprom",
+            "Burisma",
+            "Naftogaz",
+            "Rosneft"
+        ],
+        "answer": "Burisma"
+    },
+    {
+        "question": "What legal issue arose from Hunter Biden's laptop in 2020?",
+        "options": [
+            "Tax evasion",
+            "Drug trafficking",
+            "Emails and business dealings",
+            "Espionage"
+        ],
+        "answer": "Emails and business dealings"
+    },
+    {
+        "question": "What potential sentence could Hunter Biden face for the tax and firearm charges if convicted?",
+        "options": [
+            "Probation",
+            "Up to 1 year in prison",
+            "Up to 10 years in prison",
+            "Up to 20 years in prison"
+        ],
+        "answer": "Up to 10 years in prison"
+    }
+]
