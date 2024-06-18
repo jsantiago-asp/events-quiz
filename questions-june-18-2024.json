@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which tech company recently announced it will be laying off 10% of its workforce due to restructuring?",
+        "options": [
+            "Google",
+            "Amazon",
+            "Microsoft",
+            "Meta"
+        ],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "Which country won the 2024 UEFA Nations League final?",
+        "options": [
+            "Spain",
+            "Italy",
+            "Portugal",
+            "France"
+        ],
+        "answer": "Spain"
+    },
+    {
+        "question": "What was Elon Musk's recent legal victory with shareholders about?",
+        "options": [
+            "Winning a defamation lawsuit",
+            "Defeating a fraud charge",
+            "Acquittal in a securities fraud case",
+            "Overturning a decision on executive compensation"
+        ],
+        "answer": "Overturning a decision on executive compensation"
+    },
+    {
+        "question": "What is the main focus of the EU’s AI Act recently passed by the European Parliament?",
+        "options": [
+            "Regulating the use of AI in military applications",
+            "Promoting AI research and development",
+            "Setting rules and standards for AI to ensure safety and ethical use",
+            "Banning AI technologies in public services"
+        ],
+        "answer": "Setting rules and standards for AI to ensure safety and ethical use"
+    },
+    {
+        "question": "Which city was selected to host the 2028 Summer Olympics?",
+        "options": [
+            "Tokyo",
+            "Los Angeles",
+            "Paris",
+            "Brisbane"
+        ],
+        "answer": "Los Angeles"
+    },
+    {
+        "question": "Which famous actor announced their retirement from acting this week?",
+        "options": [
+            "Robert De Niro",
+            "Meryl Streep",
+            "Brad Pitt",
+            "Tom Hanks"
+        ],
+        "answer": "Brad Pitt"
+    },
+    {
+        "question": "Which country recently passed a law banning TikTok on government devices?",
+        "options": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "question": "Which team won the 2024 NBA Finals?",
+        "options": [
+            "Los Angeles Lakers",
+            "Miami Heat",
+            "Denver Nuggets",
+            "Boston Celtics"
+        ],
+        "answer": "Boston Celtics"
+    },
+    {
+        "question": "Which space agency successfully launched a mission to explore Jupiter’s moons?",
+        "options": [
+            "NASA",
+            "ESA (European Space Agency)",
+            "CNSA (China National Space Administration)",
+            "ISRO (Indian Space Research Organisation)"
+        ],
+        "answer": "ESA (European Space Agency)"
+    },
+    {
+        "question": "Which upcoming animated feature involves a towering superhero raising the orphaned child of one of his enemies?",
+        "options": [
+            "The Bikeriders",
+            "Inside Out 2",
+            "Ultraman: Rising",
+            "Kung Fu Panda 4"
+        ],
+        "answer": "Ultraman: Rising"
+    }
+]

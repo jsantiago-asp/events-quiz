@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
         questionsFile = 'questions-trump-legal-issues.json';
     } else if (window.location.pathname.includes('hunter-biden-legal-issues.html')) {
         questionsFile = 'questions-hunter-biden-legal-issues.json';
+    } else if (window.location.pathname.includes('june-18-2024.html')) {
+        questionsFile = 'questions-june-18-2024.json';
     }
 
     fetch(questionsFile)
